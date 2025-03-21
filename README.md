@@ -1,1 +1,1 @@
-# Life-mentor
+# All Gen AI projects
